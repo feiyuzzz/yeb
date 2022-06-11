@@ -1,0 +1,39 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    host: smtp.163.com
+    protocol: smtp
+    default-encoding: utf-8
+    password: ###
+    username: ###
+    test-connection: true
+    port: 25
+
+  rabbitmq:
+    host: ###
+    username: guest
+    password: ###
+    port: 5672
+    listener:
+      simple:
+        acknowledge-mode: manual
+
+  redis:
+    host: ####
+    port: 6379
+    database: 1
+    password: ###
+    #链接超时时间
+    timeout: 10000ms
+    lettuce:
+      pool:
+        #最大连接数
+        max-active: 8
+        #最大链接阻塞时间
+        max-wait: 10000ms
+        #最大空闲链接
+        max-idle: 200
+        #最小空闲链接
+        min-idle: 0

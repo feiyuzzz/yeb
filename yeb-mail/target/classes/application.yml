@@ -1,0 +1,18 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    host: smtp.163.com
+    protocol: smtp
+    default-encoding: utf-8
+    password: QJWKDVJTMMMEWYPC
+    username: beibeiguoji2021@163.com
+    test-connection: true
+    port: 25
+
+  rabbitmq:
+    host: 114.132.40.5
+    username: guest
+    password: yzhrbmq2022,
+    port: 5672
