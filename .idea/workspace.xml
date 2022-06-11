@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69c97aa3-8f3f-4659-a5ce-4938ab0120fe" name="Default Changelist" comment="迁移到github">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-mail/target/yeb-mail-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/target/yeb-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-mail/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-mail/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-mail/target/classes/com/ez/mail/server/MailReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-mail/target/classes/com/ez/mail/server/MailReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-mail/yeb-mail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-mail/yeb-mail.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/META-INF/yeb-server.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/config/CustomAuthorityDeserializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/config/CustomAuthorityDeserializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/security/RestfulAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/yeb/server/security/RestfulAuthenticationEntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/yeb-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/yeb-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Program Files/Apache/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="C:\Users\Eddie\.m2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24GyFbP9pMZvASY8VR8FntCJd2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eddie/IdeaProjects/yeb&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;424728f937224fb45ee1e976de0d478c&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\resources\mapper" />
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\resources" />
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\java\com\yeb\server" />
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\java\com\yeb\server\service" />
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\java\com\yeb\server\service\impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yeb.server.mapper" />
+      <recent name="com.yeb.server.pojo" />
+      <recent name="com.yeb.server.service" />
+      <recent name="com.yeb.server.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\resources" />
+      <recent name="C:\Users\Eddie\IdeaProjects\yeb\yeb-server\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YebApplication">
+    <configuration name="YebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="yeb-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yeb.server.YebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yeb.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebMailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="yeb-mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ez.mail.YebMailApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ez.mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69c97aa3-8f3f-4659-a5ce-4938ab0120fe" name="Default Changelist" comment="" />
+      <created>1643271114435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643271114435</updated>
+      <workItem from="1643271119888" duration="985000" />
+      <workItem from="1643272168908" duration="9618000" />
+      <workItem from="1643283392812" duration="11436000" />
+      <workItem from="1643295532877" duration="4043000" />
+      <workItem from="1643334558884" duration="19445000" />
+      <workItem from="1643356437836" duration="215000" />
+      <workItem from="1643356728123" duration="4618000" />
+      <workItem from="1643361499233" duration="19265000" />
+      <workItem from="1643445256474" duration="38842000" />
+      <workItem from="1643604859276" duration="645000" />
+      <workItem from="1643615006504" duration="497000" />
+      <workItem from="1643636447407" duration="9523000" />
+      <workItem from="1643690064750" duration="19370000" />
+      <workItem from="1643769094254" duration="8491000" />
+      <workItem from="1643877647068" duration="5384000" />
+      <workItem from="1645021925872" duration="757000" />
+      <workItem from="1645059777273" duration="1512000" />
+      <workItem from="1645063523203" duration="6949000" />
+      <workItem from="1645085695278" duration="13695000" />
+      <workItem from="1645146626332" duration="21548000" />
+      <workItem from="1645246388827" duration="5833000" />
+      <workItem from="1645409795979" duration="3284000" />
+      <workItem from="1645773598021" duration="3795000" />
+      <workItem from="1645777847076" duration="1317000" />
+      <workItem from="1645853050563" duration="88000" />
+      <workItem from="1646020166549" duration="103000" />
+      <workItem from="1646836430465" duration="657000" />
+      <workItem from="1646891959871" duration="1414000" />
+      <workItem from="1646899511269" duration="736000" />
+      <workItem from="1647318083462" duration="362000" />
+      <workItem from="1647318459505" duration="3000" />
+      <workItem from="1647572418255" duration="2348000" />
+      <workItem from="1649774920384" duration="930000" />
+      <workItem from="1649811418175" duration="359000" />
+      <workItem from="1650847955704" duration="2011000" />
+      <workItem from="1650957439834" duration="2000" />
+      <workItem from="1651296939948" duration="17000" />
+      <workItem from="1651664794055" duration="1823000" />
+      <workItem from="1651720488522" duration="41000" />
+      <workItem from="1652260328193" duration="629000" />
+      <workItem from="1654960488664" duration="722000" />
+      <workItem from="1654961531545" duration="1367000" />
+      <workItem from="1654962930602" duration="59000" />
+      <workItem from="1654963002566" duration="12000" />
+      <workItem from="1654963031758" duration="8000" />
+      <workItem from="1654963082197" duration="9000" />
+      <workItem from="1654963105639" duration="46000" />
+      <workItem from="1654963173291" duration="6000" />
+      <workItem from="1654963190852" duration="5000" />
+      <workItem from="1654963249945" duration="663000" />
+    </task>
+    <task id="LOCAL-00001" summary="迁移到github">
+      <created>1654962413529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654962413529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="迁移到github" />
+    <option name="LAST_COMMIT_MESSAGE" value="迁移到github" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
